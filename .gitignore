@@ -1,0 +1,9 @@
+*.swp
+*.bak
+*.old
+/inc/
+*META.yml
+*META.json
+/Makefile
+/blib/
+/pm_to_blib
